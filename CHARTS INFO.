@@ -1,0 +1,80 @@
+I HAVE USED VARIOUS PLOTTING CHARTS IN ORDER TO SHOWCASE MY DATASET AND MAKE RELATIONSHIP AMONG FEATURES CLEARLY VISIBLE:
+
+CHART 1 RESULTS
+  ::Here the number of bookings in terms of hotels are very divergent.
+
+:: bookings recorded in city hotel is approx 2 times that of resort hotel
+
+::city hotel showed great number of bookings in particular time period ,
+
+::resort hotel is lagging behind in terms of bookings.
+
+::comparison is easy as both hotels have divergent bookings
+
+CHART 2 RESULTS
+  ::Here the number of bookings in terms of years are n not very divergent.
+
+:: bookings recorded in 2016 took high jump from 2015
+
+::yaer 2016 showed great number of bookings in particular time period ,
+
+::2015,2017 legged behind in terms of bookings.
+
+::comparison is easy as all years have divergent bookings
+
+CHART 3 RESULTS
+  ::Here the number of bookings in terms of months are not very divergent.
+
+:: bookings recorded in SEPTEMBER,JULY,MAY took high jump
+
+::MONTHS SEP.,JULY,MAY showed great number of bookings in particular time period ,
+
+: JANUARY,OCTOBER,DECEMBER legged behind in terms of bookings.
+
+::comparison is easy as all months have divergent bookings
+
+CHART 4 RESULTS
+  ::Here the number of bookings in terms of age group is very divergent.
+
+:: bookings recorded by adults took high jump
+
+::adults showed great number of bookings in particular time period ,
+
+::children,babies legged behind in terms of bookings.
+
+::comparison is easy as all age group have divergent bookings
+
+CHART 5 RESULTS
+  ::Here the number of bookings in terms of COUNTRIES is very divergent.
+
+:: bookings recorded by PRTGBR,FRA,ESP took high jump
+
+::PRT showed great number of bookings in particular time period ,
+
+::MOST OF THE COUNTRIES legged behind in terms of bookings.
+
+::comparison is easy as all COUNTRIES have divergent bookings
+
+CHART 6 RESULTS
+  ::Here the number of bookings in terms of room type is very divergent.
+
+:: bookings recorded by room type A,D,E took high jump
+
+::ROOM TYPE A showed great number of bookings in particular time period ,
+
+::MOST OF THE ROOM TYPE LIKE H,K,L,F legged behind in terms of bookings.
+
+::comparison is easy as all ROOM TYPE have divergent bookings
+
+CHART 7 RESULTS
+  arrival date year abd arrival week are negatively correlated to eaqch other,
+
+:stays in week nights andb weekend nights are somehow positively related to some extent.
+
+::lead time of bookings is somehow seen affecting other variables like number of adults,children ,stays in positive manner.
+
+:: most of the variables are independent ,thus does not impact others like week number,year,no.of babies etc.
+
+::lead time is somehow seen affecting bookings
+  
+  
